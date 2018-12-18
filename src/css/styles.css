@@ -1,0 +1,33 @@
+body {
+    margin:0;
+}
+
+@font-face {
+    font-family: 'Courier New', Courier, monospace
+}
+
+header {
+    background: #E6BD51;
+    text-align: center;
+}
+
+.logo {
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Source Sans Pro';
+}
+
+header input {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.border-google {
+    margin top: 45px;
+}
+
+.container {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 25px;
+}
